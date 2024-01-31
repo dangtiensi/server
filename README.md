@@ -5,4 +5,4 @@ Chỉnh sửa file [PalWorldSettings.ini]
 
 Đường dẫn file: steamapps\common\PalServer\Pal\Saved\Config\WindowsServer\PalWorldSettings.ini
 
-Chạy bằng cách mở file [run.bat]
+Chạy server bằng cách mở file [run.bat]
